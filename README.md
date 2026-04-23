@@ -5,3 +5,5 @@
 ### Coauthor: Nicole Caravello
 
 ### Esercizio 10: 6a1a8eb
+
+### Esercizio 18: aspirapolvere
